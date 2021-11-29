@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1598622683 source:c:\users\alpha\documents\c & c++ projects\fileserverscansampler\fileserverscansampler\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<list>
+	<cstdlib>
+	<ctime>
+	"timer.h"
+
+1598618488 c:\users\alpha\documents\c & c++ projects\fileserverscansampler\fileserverscansampler\timer.h
+	<iostream>
+	<chrono>
+	<ctime>
+	<cmath>
+
